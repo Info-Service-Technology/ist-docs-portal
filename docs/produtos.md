@@ -1,13 +1,13 @@
 # Produtos da IST
 
-Os sites de documentação individuais estão em preparação. Os repositórios abaixo são **nomes planejados**, não links ativos.
+As documentações dos produtos estão em preparação. A página do MEDGEST abaixo descreve somente o estado de desenvolvimento e não indica disponibilidade para uso operacional.
 
-| Produto | Documentação planejada | Situação |
+| Produto | Documentação | Situação |
 | --- | --- | --- |
 | HDI Analytics | `hdi-analytics-docs` | Em preparação |
 | HDI-PEP | `hdi-pep-docs` | Em preparação |
 | Cuida+ | `cuidaplus-docs` | Em preparação |
-| MDGEST | `mdgest-docs` | Em preparação |
+| MEDGEST | [Visão geral](produtos/medgest.md) | Em desenvolvimento |
 | Vision Monitoring | `vision-monitoring-docs` | Em preparação |
 
 ## Organização
