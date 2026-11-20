@@ -29,5 +29,7 @@ plugins:
   - search
 nav:
   - Início: index.md
-  - Produtos: produtos.md
+  - Produtos:
+      - Visão geral: produtos.md
+      - MEDGEST: produtos/medgest.md
   - Sobre a documentação: sobre.md
